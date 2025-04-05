@@ -10,4 +10,8 @@
     <string name="Regis">Registrar</string>
     <string name="join">Iniciar sesión</string>
     <string name="home">Home</string>
+    <string name="wellcome">Bienvenido a Mi Aplicación</string>
+    <string name="logo">logo de la IU digital</string>
+    <string name="i_wellcome">Has iniciado sesión</string>
+    <string name="call">llamar</string>
 </resources>
