@@ -45,6 +45,7 @@ public class MenuActivity extends AppCompatActivity {
                 usuarios
         );
         userList.setAdapter(adapter);
+
     }
 }
 
